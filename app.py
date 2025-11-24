@@ -11,10 +11,7 @@ model = pickle.load(open("model.pkl", "rb"))
 # 🔹 Streamlit Page Configuration
 # ---------------------------------------------------
 st.set_page_config(
-    page_title="Concrete Strength Prediction | Tejas Gholap",
-    page_icon="🏗️",
-    layout="wide",
-    initial_sidebar_state="expanded"
+    page_title="Concrete Strength Prediction | Krushna Shinde"
 )
 
 # ---------------------------------------------------
@@ -31,11 +28,9 @@ st.markdown("""
 # 🔹 Sidebar (Profile Info)
 # ---------------------------------------------------
 with st.sidebar:
-    st.image("https://avatars.githubusercontent.com/u/216306511?v=4", width=150)
-    st.markdown("## 👨‍💻 Tejas Gholap")
-    st.markdown("[🌐 LinkedIn](https://www.linkedin.com/in/tejas-gholap-bb3417300/)")
-    st.markdown("[💻 GitHub](https://github.com/tejasgholap45)")
-    st.markdown("📧 tejasgholap45@gmail.com")
+    st.markdown("## 👨‍💻 Krushna Shinde")
+    st.markdown("[💻 GitHub](https://github.com/krushna8767)")
+    st.markdown("📧 kshinde.876732@gmail.com")
     st.markdown("---")
     st.info("This app uses a trained XGBoost model to predict concrete compressive strength.")
 
