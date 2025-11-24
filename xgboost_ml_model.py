@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1PnxOezZDVRhVt_BpyfNloQG7gVY43rFa
 """
 
-pip install xgboost
+
 
 from sklearn.datasets import fetch_california_housing
 from sklearn.model_selection import train_test_split
