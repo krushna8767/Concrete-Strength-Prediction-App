@@ -75,6 +75,6 @@ st.markdown("""
     <hr>
     <div style='text-align: center; color: grey;'>
         <p>Developed by <b>Krushna Shinde</b> |
-        <a href='https://github.com/Krushna Shinde'>GitHub</a> |
+        <a href='https://github.com/krushna8767'>GitHub</a> |
     </div>
 """, unsafe_allow_html=True)
