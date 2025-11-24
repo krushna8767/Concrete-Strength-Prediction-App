@@ -74,8 +74,7 @@ if st.button("🚀 Predict Strength", use_container_width=True):
 st.markdown("""
     <hr>
     <div style='text-align: center; color: grey;'>
-        <p>Developed by <b>Tejas Gholap</b> |
-        <a href='https://github.com/tejasgholap45'>GitHub</a> |
-        <a href='https://www.linkedin.com/in/tejas-gholap-bb3417300/'>LinkedIn</a></p>
+        <p>Developed by <b>Krushna Shinde</b> |
+        <a href='https://github.com/Krushna Shinde'>GitHub</a> |
     </div>
 """, unsafe_allow_html=True)
