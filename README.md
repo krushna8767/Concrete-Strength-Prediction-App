@@ -8,7 +8,7 @@
 ---
 
 ## 🔗 **Live Demo**
-👉 [**Try the App Now on Streamlit Cloud 🚀**](https://concrete-strength-prediction-app-tejasgholap.streamlit.app/)
+👉 [**Try the App Now on Streamlit Cloud 🚀**]https://concrete-strength-prediction-app-krushnashinde.streamlit.app/
 
 ---
 
@@ -57,44 +57,11 @@ Users can easily input concrete mix details, and the app instantly provides a st
 
 ---
 
-## 📂 **Project Structure**
-
-Concrete-Strength-Prediction-App/
-│
-
-├── app.py # Streamlit web app
-
-├── model.pkl # Trained XGBoost model
-
-├── requirements.txt # Dependencies
-
-└── README.md # Documentation
-
----
-
-## 🧭 **Run Locally**
-```
-1️⃣ Clone the repository:
-```bash
-git clone https://github.com/tejasgholap45/Concrete-Strength-Prediction-App.git
-cd Concrete-Strength-Prediction-App
-```
-2️⃣ Install the required libraries:
-pip install -r requirements.txt
-```
-3️⃣ Run the app:
-streamlit run app.py
-```
----
-
 ## 👨‍💻 **Author**
 
-**Tejas Gholap**
+**Krushna Shinde**
 🎓 Data Science & Machine Learning Enthusiast
-
-🌐 [LinkedIn](https://www.linkedin.com/in/tejas-gholap-bb3417300/)
-💻 [GitHub](https://github.com/tejasgholap45)
-✉️ [tejasgholap45@gmail.com](mailto:tejasgholap45@gmail.com)
+💻 [GitHub](https://github.com/krushna8767)
 
 ---
 ```
